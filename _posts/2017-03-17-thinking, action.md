@@ -2,7 +2,7 @@
 
 layout: post
 title: 说与做
-category: - rituals
+category: Comments
 Tags: [actionRetro, mindset]
 excerpt_separator: "<!--more-->"
 
