@@ -1,7 +1,7 @@
 ---
 
 layout: category
-title: Sports
+title: 锻炼和技巧
 category: Sports
 
 ---
