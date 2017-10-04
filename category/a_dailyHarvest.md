@@ -1,5 +1,7 @@
 ---
+
 layout: category
-title: Daily Harvest 
+title: dailyHarvest
 category: dailyHarvest
+
 ---
