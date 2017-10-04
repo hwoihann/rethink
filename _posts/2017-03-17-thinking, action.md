@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 说与做
 categories:
   - rituals
