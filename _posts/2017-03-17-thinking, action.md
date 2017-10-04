@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pages
 title: 说与做
 categories:
   - rituals
