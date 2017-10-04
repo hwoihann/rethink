@@ -3,7 +3,7 @@
 layout: post
 title: 说与做
 category: Comments
-Tags: [actionRetro, Mindset]
+tags: [actionRetro, Mindset]
 excerpt_separator: "<!--more-->"
 
 ---
