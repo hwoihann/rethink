@@ -1,16 +1,19 @@
 ---
-layout: pages
+
+layout: post
 title: 说与做
-categories:
-  - rituals
-Tags:
-  - actionRetro
-  - mindset
+category: - rituals
+Tags: [actionRetro, mindset]
+excerpt_separator: "<!--more-->"
+
 ---
 
- - 一个小小的开始和总结
+- 一个小小的开始和总结
 
 第一次用vim在自己搭建的github blog上写中文博客。
+
+<!--more-->
+
 
 春寒料峭，将雨未雨，从狭小滞闷的隔断间搬到表哥家，累了将近一个星期，每日都是凌晨睡觉，忙着做不值得那么费力的事。收拾过程中断舍离的思绪愈发浓厚，看着自己产生的那么多垃圾，和自己有关的那么多东西，惊叹这个现代社会的富足和自己内心的虚无。然后忽然有一种无所适从的感觉，很寂寞、倦怠，仿佛奄奄一息，却不知道自己在厌弃什么——这样无聊的自己吗？为什么呢？
 
