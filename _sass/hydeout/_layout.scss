@@ -43,13 +43,14 @@ body {
     font-family: "Abril Fatface", serif;
     font-weight: normal;
     font-size: $large-font-size;
-    color: rgba(255,255,255,.75);
+    // color: rgba(255,255,255,.75);
+    color:  #E26300;
     margin-top: 0;
     margin-bottom: $heading-spacing;
 
     a {
       color: inherit;
-      &:hover { color: white; }
+      &:hover { color: #777777; }
     }
 
     .back-arrow { margin-right: 0.5rem; }
@@ -116,12 +117,13 @@ body {
   // Bigger title
   .site-title {
     font-size: 3.25rem;
-    color: white;
+    color:  #E26300;
   }
 
   // Show secondary nav content + lead
   header ~ *, p.lead {
     display: block;
+    color: #E26300; //add 18.09.21
   }
 
   header {
@@ -165,12 +167,16 @@ body {
     .site-title {
       font-size: 3.25rem;
 
-      a { color: white; }
+      a { 
+       color:  #E26300; 
+       &:hover { color: #777777; }
+       }
       .back-arrow { display: none; }
     }
 
     p.lead, header ~ * {
       display: block;
+      color: #E26300; //add 18.09.21
     }
 
     header ~ nav {
@@ -212,18 +218,19 @@ body {
 ----------------------------------------------------------- */
 
 #sidebar a {
-  color: #fff;
-
+  color: #E26300;
   svg {
-    fill: rgba(255, 255, 255, 0.85);
+    // fill: rgba(255, 255, 255, 0.85);
+    fill: #E26300;
   }
 
   &:hover, &:focus, &.active {
-    svg { fill: #fff; }
+    svg { fill: #777777; }
   }
 
   &:hover, &:focus {
     text-decoration: underline;
+     color: #777777;
     &.icon {
       text-decoration: none;
     }
@@ -231,6 +238,7 @@ body {
 
   &.active {
     font-weight: bold;
+    fill: #fff;
   }
 }
 
