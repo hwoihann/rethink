@@ -3,9 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            2ndLearn
+description:       Be A lifeHacker之日常
 tagline:          '日常部'
-description:      '<a href="http://hwoihann.github.io/landing" target="_blank" style="color:grey25;font-weight:bold">Be A LifeHacker</a>之日常'
+title:      	  '<a href="http://hwoihann.github.io" target="_blank" style="color:grey25; font-size:4">2<font size=8><sup>nd</sup></font> Learn</a>'
+titlename:      '2ndLearn'
 url:              https://hwoihann.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -33,9 +34,9 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/hwoihann
+  repo:             https://github.com/hwoihann/rethink
 
 google_analytics: UA-106742711-1
 disqus:
-  shortname: [hwoihann-disqus-com]
+  shortname: [hwoihann-github-io-rethink]
 
