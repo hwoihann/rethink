@@ -40,3 +40,5 @@ google_analytics: UA-106742711-1
 disqus:
   shortname: [hwoihann-github-io-rethink]
 
+
+theme: jekyll-theme-architect
