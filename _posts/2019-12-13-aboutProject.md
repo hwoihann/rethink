@@ -1,22 +1,19 @@
 ---
 layout: post
-title:
+title: 十二月遐思
 categories:
   - Danshari
 Tags: [actionRetro, Mindset]
 excerpt_separator: "<!--more-->"
 ---
 
-
 近期，科研过程中的一些遐思。
 
 <!--more-->
 
 
-
 2019/12/13 Fri. 09:33:11
 Report is the final presentation of our understanding to a project.
-
 
 2019/12/13 Fri. 10:16:15
 略略有些不能够专注。想到有些人说的和做的区别真的是很大。
